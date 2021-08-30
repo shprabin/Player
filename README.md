@@ -5,6 +5,7 @@ How to run this app?
 3. run development server: php artisan serve
 4. This is api which support Player  get, post and delete verbs. URL would be http://127.0.0.1:portno/player
 5. These are the files I added/modified on laravel 8 framework and api is tested using the postman.
+
     a. app/Http/Controller/PlayerController.php
     b. app/Models/Player.php
     c. routes/web.php
